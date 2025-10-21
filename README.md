@@ -8,7 +8,7 @@ The **CB-DOJ Handbook** is a comprehensive guide designed to bring realism, stru
 
 This handbook is **not a script**, but rather a **detailed manual** covering legal procedures, role descriptions, legal forms, and step-by-step guidance on criminal and civil justice processes. It promotes fairness, consistency, and deeper engagement within any roleplay community that features courtroom or law enforcement scenarios.
 
-Join my [Discord](https://discord.gg/MVFK7BAf)
+Join my [Discord](https://discord.gg/Jwm8NVj22P)
 
 
 ## Key Features
