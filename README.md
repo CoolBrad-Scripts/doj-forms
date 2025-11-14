@@ -4,7 +4,7 @@
 
 ## Overview
 
-The **CB-DOJ Handbook** is a comprehensive guide designed to bring realism, structure, and clarity to legal roleplay in FiveM and other roleplay communities. This document helps players, administrators, and legal roleplay enthusiasts build and manage an immersive in-game Department of Justice system from the ground up.
+The **[CB-DOJ Handbook](https://docs.google.com/document/d/1GMCe6h7HPnqZ8F9VfiJ64T-FhdPw_q8iMln8hpN8KiQ/edit?usp=sharing)** is a comprehensive guide designed to bring realism, structure, and clarity to legal roleplay in FiveM and other roleplay communities. This document helps players, administrators, and legal roleplay enthusiasts build and manage an immersive in-game Department of Justice system from the ground up.
 
 This handbook is **not a script**, but rather a **detailed manual** covering legal procedures, role descriptions, legal forms, and step-by-step guidance on criminal and civil justice processes. It promotes fairness, consistency, and deeper engagement within any roleplay community that features courtroom or law enforcement scenarios.
 
